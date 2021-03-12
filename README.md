@@ -76,8 +76,4 @@
 * Monitoring in Cloud
 * Installing Cloud Platforms & Performance Evaluation
 * Features and Functions of Cloud Computing Platforms
-## **Unit-3**
-
-## **Unit-4**
-
-## **Unit-5**
+***
